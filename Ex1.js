@@ -25,6 +25,6 @@ function contarVogais(texto) {
     });
 }
 //itera o array vogais e imprime a contagem de cada vogal
-const texto = "Thiago"
+const texto = "Leo"
 const totaldevogais =
     contarVogais(texto);"# ContagemDeVogais" 
